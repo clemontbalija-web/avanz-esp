@@ -126,7 +126,7 @@
     <!-- Contenido del bloque naranja -->
     <div class="banner">
       <p class="banner-text">
-        Haz clic en "Iniciar sesión" para obtener este beneficio.
+        Haz clic en "Iniciar sesión" para participar ahora.
       </p>
       <img class="centered-icon" src="img/icono_avanz_movil.png" alt="Ícono móvil" />
       <center>
@@ -144,4 +144,5 @@
   </div>
 </body>
 </html>
+
 
